@@ -1,7 +1,5 @@
 # Janggi Game - Portfolio Project
 
-**Remember that this project cannot be submitted late.**
-
 This is a portfolio project done for a computer science class. This program creates a class
 named JanggiGame for playing an abstract board game called Janggi. For the specific rules,
 the overall "Rules" section on [the Wikipedia page](https://en.wikipedia.org/wiki/Janggi) explains
